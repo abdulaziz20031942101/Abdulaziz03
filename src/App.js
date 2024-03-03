@@ -1,10 +1,11 @@
 
 import './App.css';
+import Main from "./pages/main"
 
 function App() {
   return (
-    <div className="App">
-    App
+    <div className="text-[25px] ">
+    <Main/>
     </div>
   );
 }
