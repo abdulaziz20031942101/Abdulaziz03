@@ -9,7 +9,7 @@ import Sass from "../assests/sass.png"
 
 const Header = () => {
   return (
-    <div className='pt-[200px] lg:pt-0 bg-slate-100 w-full lg:h-[100vh]  flex lg:flex-row flex-col items-center justify-center gap-5'>
+    <div className='pt-[200px] lg:pt-0 bg-slate-100 w-full  lg:h-[100vh]  flex lg:flex-row flex-col items-center justify-center gap-5'>
         {/* Download Cv */}
 
        
