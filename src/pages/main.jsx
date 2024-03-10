@@ -6,6 +6,7 @@ import Header from "../components/Header"
 import Social from "../components/Social"
 import Skills from "../components/Skills"
 import Works from "../components/Works"
+import Contact from "../components/Contact"
 
 const Main = () => {
   return (
@@ -15,6 +16,7 @@ const Main = () => {
     <Social/>
     <Skills/>
     <Works/>
+    <Contact/>
     </div>
   )
 }
